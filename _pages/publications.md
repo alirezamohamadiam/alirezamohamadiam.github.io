@@ -41,7 +41,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/3.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p>P Karami, F Parandin, A Mohamadi. <br><strong>Machine Learning-Driven Optimization of Photonic Crystal Structures for Superior Optical NOR Gate Performance</strong> <br><i>(Submitted) (Q2)</i></p>
+    <p>P Karami, F Parandin, A Mohamadi. <br><strong>Machine Learning-Driven Optimization of Photonic Crystal Structures for Superior Optical NOR Gate Performance</strong> <br><i>(Accepted) (Q2)</i></p>
   </td>
 </tr>
 </tbody>
