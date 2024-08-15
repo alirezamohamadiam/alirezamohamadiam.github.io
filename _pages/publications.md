@@ -41,7 +41,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/3.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p>P Karami, F Parandin, A Mohamadi. <br><strong>Machine Learning-Driven Optimization of Photonic Crystal Structures for Superior Optical NOR Gate Performance</strong> <br><i>(Accepted) (Q2)</i></p>
+    <p>F Parandin,P Karami, A Mohamadi. <br><strong>Machine Learning-Driven Optimization of Photonic Crystal Structures for Superior Optical NOR Gate Performance</strong> <br><i>(Accepted) (Q2)</i> <a href="https://opg.optica.org/ao/abstract.cfm?doi=10.1364/AO.529142">[Link]</a> </p>
   </td>
 </tr>
 </tbody>
@@ -54,7 +54,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/4.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p>P Karami, A Mohamadi, F Parandin. <br><strong>Innovative Approach to Optical Logic Gates Optimization Using Deep Learning and Machine Learning</strong> <br><i>(Submitted) (Q1)</i></p>
+    <p>P Karami, A Mohamadi, F Parandin. <br><strong>Innovative Approach to Optical Logic Gates Optimization Using Deep Learning and Machine Learning</strong> <br><i>(Submitted) (Q1)</i> </p>
   </td>
 </tr>
 </tbody>
