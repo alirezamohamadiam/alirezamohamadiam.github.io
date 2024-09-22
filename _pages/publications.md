@@ -25,7 +25,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <tbody>
 <tr>
   <td style="width:120px; height:120px; vertical-align: top;">
-    <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/2.png" width="120px" height="120px" border="2px solid #bbb">
+    <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/3.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
     <p>F Parandin, <strong>A Mohamadi</strong>. <br><strong>Designing and Optimizing a Photonic Crystal-Based All-Optical XOR Gate Using Machine Learning</strong> <br><i>Majlesi Journal of Electrical Engineering, 2023</i>. <a href="https://mjee.isfahan.iau.ir/article_705491.html">[Link+PDF]</a> <strong>(<em><u>Scopus indexed</u></em>)</strong></p>
@@ -38,7 +38,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <tbody>
 <tr>
   <td style="width:120px; height:120px; vertical-align: top;">
-    <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/3.png" width="120px" height="120px" border="2px solid #bbb">
+    <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/2.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
     <p><strong>A Mohamadi</strong>, M Habibi, F Parandin. <br><strong>Integration of Clinical, Genetic, and Molecular Features in Predicting Castration Resistance Events in Prostate Cancer: A Comprehensive Machine Learning Analysis</strong> <br><i>Journal of Electrical and Computer Engineering Innovations (JECEI)</i>. <a href="https://jecei.sru.ac.ir/article_2088.html">[Link+PDF]</a> <strong>(<em><u>Google Scholar indexed</u></em>)</strong></p>
