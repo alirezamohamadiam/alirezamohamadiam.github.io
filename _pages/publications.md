@@ -64,7 +64,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <tbody>
 <tr>
   <td style="width:120px; height:120px; vertical-align: top;">
-    <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/5.png" width="120px" height="120px" border="2px solid #bbb">
+    <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/77.jpg" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
     <p><strong>A Mohamadi</strong>, F Parandin, P Karami. <br><strong>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</strong> <br><i>(In preparation)</i></p>
@@ -92,7 +92,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <tbody>
 <tr>
   <td style="width:120px; height:120px; vertical-align: top;">
-    <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/7.jpg" width="120px" height="120px" border="2px solid #bbb">
+    <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/dd.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
     <p>F Parandin, <strong>A Mohammadi</strong>. <br><strong>Enhancing the Performance of Photonic Crystal AND Gates with Machine Learning Optimization</strong> <br><i>2024 Third International Conference on Distributed Computing and High Performance Computing (DCHPC). IEEE, 2024</i>. <a href="https://ieeexplore.ieee.org/abstract/document/10454025">[Link]</a> <strong>(<em><u>IEEE indexed</u></em>)</strong></p>
@@ -105,7 +105,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <tbody>
 <tr>
   <td style="width:120px; height:120px; vertical-align: top;">
-    <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/8.jpg" width="120px" height="120px" border="2px solid #bbb">
+    <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/88.jpg" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
     <p><strong>A Mohammadi</strong>, H Ghahramani, SA Asghari. <br><strong>Advanced Cyberattack Detection in Internet of Medical Things (IoMT) Using Convolutional Neural Networks</strong> <br><i>(Submitted)</i> <strong>(<em><u>IEEE indexed</u></em>)</strong></p>
