@@ -54,7 +54,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/4.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p>F Parandin, <strong>A Mohamadi</strong>, P Karami. <br><strong>Innovative Approach to Optical Logic Gates Optimization Using Deep Learning and Machine Learning</strong> <br><i>(Under review)</i> <strong>(<em><u>Q2</u></em>)</strong></p>
+    <p>F Parandin, <strong>A Mohamadi</strong>, P Karami. <br><strong>Innovative Approach to Optical Logic Gates Optimization Using Deep Learning and Machine Learning</strong> <br><i>(Under review in Optical and Quantum Electronics)</i> <strong>(<em><u>Q2, IF:3.3</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
@@ -67,7 +67,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/77.jpg" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p><strong>A Mohamadi</strong>, F Parandin, P Karami. <br><strong>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</strong> <br><i>(In preparation)</i></p>
+    <p><strong>A Mohamadi</strong>, F Parandin, P Karami. <br><strong>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</strong> <br><i>(Submitted)</i></p>
   </td>
 </tr>
 </tbody>
@@ -108,7 +108,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/88.jpg" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p><strong>A Mohammadi</strong>, H Ghahramani, SA Asghari. <br><strong>Advanced Cyberattack Detection in Internet of Medical Things (IoMT) Using Convolutional Neural Networks</strong> <br><i>(Submitted)</i> <strong>(<em><u>IEEE indexed</u></em>)</strong></p>
+    <p><strong>A Mohammadi</strong>, H Ghahramani, SA Asghari. <br><strong>" Advanced Cyberattack Detection in Internet of Medical Things (IoMT) Using Convolutional Neural Networks" 19th Iranian Conference on Intelligent Systems</strong> <br><i>(Accepted in <a href="https://icis2024.ir/en/">[ICIS 2024]</a>)</i> <strong>(<em><u>IEEE indexed</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
