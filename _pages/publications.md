@@ -67,7 +67,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/77.jpg" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p><strong>A Mohamadi</strong>, F Parandin, P Karami. <br><strong>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</strong> <br><i>(Submitted)</i></p>
+    <p><strong>A Mohamadi</strong>, F Parandin, P Karami. <br><strong>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</strong> <br><i>(Submitted)</i> <strong>(<em><u>Q1</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
@@ -82,7 +82,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/6.jpg" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p><strong>A Mohammadi</strong>, F Parandin, H Ghahramani. <br><strong>Neural Network-Driven Optimization of Photonic Crystal-Based All-Optical NOT Gate Design</strong> <br><i>2024 Third International Conference on Distributed Computing and High Performance Computing (DCHPC). IEEE, 2024</i>. <a href="https://ieeexplore.ieee.org/document/10454088">[Link]</a> <strong>(<em><u>IEEE indexed</u></em>)</strong></p>
+    <p><strong>A Mohammadi</strong>, F Parandin, H Ghahramani. <br><strong>Neural Network-Driven Optimization of Photonic Crystal-Based All-Optical NOT Gate Design</strong> <br><i>2024 Third International Conference on Distributed Computing and High Performance Computing (DCHPC). IEEE, 2024</i>. <a href="https://ieeexplore.ieee.org/document/10454088">[Link]</a> <a href="https://alirezamohamadiam.github.io/files/120.pdf">[PDF]</a> <strong>(<em><u>IEEE indexed</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
@@ -95,7 +95,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/dd.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p>F Parandin, <strong>A Mohammadi</strong>. <br><strong>Enhancing the Performance of Photonic Crystal AND Gates with Machine Learning Optimization</strong> <br><i>2024 Third International Conference on Distributed Computing and High Performance Computing (DCHPC). IEEE, 2024</i>. <a href="https://ieeexplore.ieee.org/abstract/document/10454025">[Link]</a> <strong>(<em><u>IEEE indexed</u></em>)</strong></p>
+    <p>F Parandin, <strong>A Mohammadi</strong>. <br><strong>Enhancing the Performance of Photonic Crystal AND Gates with Machine Learning Optimization</strong> <br><i>2024 Third International Conference on Distributed Computing and High Performance Computing (DCHPC). IEEE, 2024</i>. <a href="https://ieeexplore.ieee.org/abstract/document/10454025">[Link]</a> <a href="https://alirezamohamadiam.github.io/files/115.pdf">[PDF]</a> <strong>(<em><u>IEEE indexed</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
@@ -108,7 +108,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/88.jpg" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p><strong>A Mohammadi</strong>, H Ghahramani, SA Asghari. <br><strong>" Advanced Cyberattack Detection in Internet of Medical Things (IoMT) Using Convolutional Neural Networks" 19th Iranian Conference on Intelligent Systems</strong> <br><i>(Accepted in <a href="https://icis2024.ir/en/">[ICIS 2024]</a>)</i> <strong>(<em><u>IEEE indexed</u></em>)</strong></p>
+    <p><strong>A Mohammadi</strong>, H Ghahramani, SA Asghari, M Aminian. <br><strong>Advanced Cyberattack Detection in Internet of Medical Things (IoMT) Using Convolutional Neural Networks</strong> <br><i>19th Iranian Conference on Intelligent Systems</i> <strong>(<em><u>Accepted in <a href="https://icis2024.ir/en/">ICIS 2024</a></u></em>)</strong> <a href="https://alirezamohamadiam.github.io/files/CNN.pdf">[PDF]</a> <a href="https://youtu.be/hPV5H9kTbYM?si=fWtb_eaIiLQ3uGEy">[Presentation]</a></p>
   </td>
 </tr>
 </tbody>
