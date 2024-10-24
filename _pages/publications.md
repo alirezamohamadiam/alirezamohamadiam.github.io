@@ -15,7 +15,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/1.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p>F Parandin, P Karami, <strong>A Mohamadi</strong>. <br><strong>Machine Learning-Driven Optimization of Photonic Crystal Structures for Superior Optical NOR Gate Performance</strong> <br><i>Applied Optics, 63(25), 6666-6673</i>. <a href="https://doi.org/10.1364/AO.529142">[Link]</a> <a href="https://www.researchgate.net/publication/382986319_Machine_learning-driven_optimization_of_photonic_crystal_structures_for_superior_optical_NOR_gate_performance">[PDF]</a> <strong>(<em><u>Q2, IF: 1.9</u></em>)</strong></p>
+    <p>F Parandin, P Karami, <strong>A Mohamadi</strong>. <br><strong>Machine Learning-Driven Optimization of Photonic Crystal Structures for Superior Optical NOR Gate Performance</strong> <br><i>Applied Optics, 63(25), 6666-6673, 2024</i>. <a href="https://doi.org/10.1364/AO.529142">[Link]</a> <a href="https://www.researchgate.net/publication/382986319_Machine_learning-driven_optimization_of_photonic_crystal_structures_for_superior_optical_NOR_gate_performance">[PDF]</a> <strong>(<em><u>Q2, IF: 1.9</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
@@ -28,7 +28,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/3.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p>F Parandin, <strong>A Mohamadi</strong>. <br><strong>Designing and Optimizing a Photonic Crystal-Based All-Optical XOR Gate Using Machine Learning</strong> <br><i>Majlesi Journal of Electrical Engineering, 2023</i>. <a href="https://mjee.isfahan.iau.ir/article_705491.html">[Link+PDF]</a> <strong>(<em><u>Scopus indexed</u></em>)</strong></p>
+    <p>F Parandin, <strong>A Mohamadi</strong>. <br><strong>Designing and Optimizing a Photonic Crystal-Based All-Optical XOR Gate Using Machine Learning</strong> <br><i>Majlesi Journal of Electrical Engineering, 2024</i>. <a href="https://mjee.isfahan.iau.ir/article_705491.html">[Link+PDF]</a> <strong>(<em><u>Scopus indexed</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
@@ -41,7 +41,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/2.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p><strong>A Mohamadi</strong>, M Habibi, F Parandin. <br><strong>Integration of Clinical, Genetic, and Molecular Features in Predicting Castration Resistance Events in Prostate Cancer: A Comprehensive Machine Learning Analysis</strong> <br><i>Journal of Electrical and Computer Engineering Innovations (JECEI)</i>. <a href="https://jecei.sru.ac.ir/article_2088.html">[Link+PDF]</a> <strong>(<em><u>Google Scholar indexed</u></em>)</strong></p>
+    <p><strong>A Mohamadi</strong>, M Habibi, F Parandin. <br><strong>Integration of Clinical, Genetic, and Molecular Features in Predicting Castration Resistance Events in Prostate Cancer: A Comprehensive Machine Learning Analysis</strong> <br><i>Journal of Electrical and Computer Engineering Innovations (JECEI), 2024</i>. <a href="https://jecei.sru.ac.ir/article_2088.html">[Link+PDF]</a> <strong>(<em><u>Google Scholar indexed</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
@@ -54,7 +54,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/4.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p>F Parandin, <strong>A Mohamadi</strong>, P Karami. <br><strong>Innovative Approach to Optical Logic Gates Optimization Using Deep Learning and Machine Learning</strong> <br><i>(Under review in Optical and Quantum Electronics)</i> <strong>(<em><u>Q2, IF:3.3</u></em>)</strong></p>
+    <p>F Parandin, <strong>A Mohamadi</strong>, P Karami. <br><strong>Innovative Approach to Optical Logic Gates Optimization Using Deep Learning and Machine Learning</strong> <br><i>(Under review in Optical and Quantum Electronics, 2024)</i> <strong>(<em><u>Q2, IF: 3.3</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
@@ -67,7 +67,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/77.jpg" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p><strong>A Mohamadi</strong>, F Parandin, P Karami. <br><strong>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</strong> <br><i>(Submitted)</i> <strong>(<em><u>Q1</u></em>)</strong></p>
+    <p><strong>A Mohamadi</strong>, F Parandin, P Karami. <br><strong>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</strong> <br><i>(Submitted, 2024)</i></p>
   </td>
 </tr>
 </tbody>
@@ -108,7 +108,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/88.jpg" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p><strong>A Mohammadi</strong>, H Ghahramani, SA Asghari, M Aminian. <br><strong>Advanced Cyberattack Detection in Internet of Medical Things (IoMT) Using Convolutional Neural Networks</strong> <br><i>19th Iranian Conference on Intelligent Systems</i> <strong>(<em><u>Accepted in <a href="https://icis2024.ir/en/">ICIS 2024</a></u></em>)</strong> <a href="https://alirezamohamadiam.github.io/files/CNN.pdf">[PDF]</a> <a href="https://youtu.be/hPV5H9kTbYM?si=fWtb_eaIiLQ3uGEy">[Presentation]</a></p>
+    <p><strong>A Mohammadi</strong>, H Ghahramani, SA Asghari. <br><strong>"Advanced Cyberattack Detection in Internet of Medical Things (IoMT) Using Convolutional Neural Networks"</strong> <br><i>19th Iranian Conference on Intelligent Systems (Accepted in <a href="https://icis2024.ir/en/">ICIS 2024</a>)</i> <a href="https://alirezamohamadiam.github.io/files/CNN.pdf">[PDF]</a> <a href="https://youtu.be/hPV5H9kTbYM?si=fWtb_eaIiLQ3uGEy">[Presentation]</a> <strong>(<em><u>IEEE indexed</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
