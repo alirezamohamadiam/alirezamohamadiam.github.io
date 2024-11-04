@@ -16,7 +16,12 @@ I'm Alireza Mohammadi, a Research Assistant at IAU in Kermanshah, Iran. I like g
 I currently hold a B.Sc. in Computer Engineering from Islamic Azad University, Kermanshah Branch, with a CGPA of 3.5/4. My academic journey is driven by a passion for tackling complex problems and fostering innovation through technology.
 
 🔬 **Research & Academic Experience:**  
-As a Research Assistant at Islamic Azad University, I am deeply involved in the development and optimization of machine learning and deep learning algorithms for various applications. Under the guidance of Dr. Parandin, I have contributed to multiple research projects and publications, focusing on enhancing the performance of photonic crystal-based optical gates and predicting castration resistance events in prostate cancer.
+Since 2022, I’ve had the privilege of working as a Research Assistant under the guidance of Dr. Fariborz Parandin, where I’m immersed in cutting-edge machine learning projects that push the boundaries of technology in two primary areas:
+
+1- AI for Science – I focus on harnessing advanced ML models, including CNNs, RNNs, FNNs, and meta-learning frameworks, to tackle challenges in next-generation computing. My research specifically targets optimizing optical logic gates and pioneering advancements in photonic crystal technology—key components for the future of ultra-fast, efficient computing systems.
+
+2- Cybersecurity – I’m dedicated to improving the security of the Internet of Medical Things (IoMT) by developing sophisticated AI-driven methods to protect sensitive healthcare data and infrastructure from cyber threats.
+
 
 💡 **Teaching Experience:**  
 In addition to my research, I have also served as a Teaching Assistant, assisting in courses such as Computational Intelligence and Natural Language Processing. 
