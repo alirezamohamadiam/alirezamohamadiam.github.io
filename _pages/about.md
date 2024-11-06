@@ -30,18 +30,15 @@ My research output has shown consistent improvement over time, as evidenced by t
 
 ## Publication Details:
 
-* **A:** "Designing and Optimizing a Photonic Crystal-Based All-Optical XOR Gate Using Machine Learning"
-* **B:** "Integration of Clinical, Genetic, and Molecular Features in Predicting Castration Resistance Events in Prostate Cancer"
-* **C:** "Neural Network-Driven Optimization of Photonic Crystal-Based All-Optical NOT Gate Design"
-* **D:** "Enhancing the Performance of Photonic Crystal AND Gates with Machine Learning Optimization"
-* **E:** "Integration of Clinical, Genetic, and Molecular Features in Predicting"
-Castration Resistance Events in Prostate Cancer: A Comprehensive Machine Learning Analysis"
-* **F:** "Machine Learning-Driven Optimization of Photonic Crystal Structures for Superior Optical NOR Gate Performance"
-* **G:** "Securing Healthcare with Deep Learning: A CNN-Based Model for medical IoT Threat Detection"
-* **H:** "Innovative Approach to Optical Logic Gates Optimization Using Deep
-Learning and Machine Learning'
-* **I:** "Meta-Learning and Formula Optimization for All-Optical XOR, OR,
-and NOT Logic Gates: The ML-FOLD Method"
+* **A:** *<small>Designing and Optimizing a Photonic Crystal-Based All-Optical XOR Gate Using Machine Learning</small>*
+* **B:** *<small>Integration of Clinical, Genetic, and Molecular Features in Predicting Castration Resistance Events in Prostate Cancer</small>*
+* **C:** *<small>Neural Network-Driven Optimization of Photonic Crystal-Based All-Optical NOT Gate Design</small>*
+* **D:** *<small>Enhancing the Performance of Photonic Crystal AND Gates with Machine Learning Optimization</small>*
+* **E:** *<small>Integration of Clinical and Genetic Features in Predicting Castration Resistance Events in Prostate Cancer: A Comprehensive Machine Learning Analysis</small>*
+* **F:** *<small>Machine Learning-Driven Optimization of Photonic Crystal Structures for Superior Optical NOR Gate Performance</small>*
+* **G:** *<small>Securing Healthcare with Deep Learning: A CNN-Based Model for medical IoT Threat Detection</small>*
+* **H:** *<small>Innovative Approach to Optical Logic Gates Optimization Using Deep Learning and Machine Learning</small>*
+* **I:** *<small>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</small>*
 
 💡 **Teaching Experience:**  
 In addition to my research, I have also served as a Teaching Assistant, assisting in courses such as Computational Intelligence and Natural Language Processing. 
