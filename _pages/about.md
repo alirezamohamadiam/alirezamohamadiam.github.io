@@ -42,7 +42,7 @@ In addition to my research, I have also served as a Teaching Assistant, assistin
 
 My research output has shown consistent improvement over time, as evidenced by the increasing quality of the venues where my work is published. The timeline below visually represents this progress, with each point representing a publication and its corresponding journal or conference quality (Q1 being the highest).
 
-![Publication Timeline](publication_timeline.png)  <!-- Replace with your image filename -->
+![Publication Timeline](https://alirezamohamadiam.github.io/images/publication_timeline.png)  <!-- Replace with your image filename -->
 
 ## Publication Details:
 
