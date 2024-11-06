@@ -22,22 +22,6 @@ Since 2022, I have been actively engaged as a Research Assistant under the super
 
 * **Cybersecurity:**  I am deeply committed to enhancing the security of the Internet of Medical Things (IoMT). My research focuses on developing sophisticated AI-driven methodologies to safeguard sensitive healthcare data and protect critical infrastructure from evolving cyber threats.
 
-
-💡 **Teaching Experience:**  
-In addition to my research, I have also served as a Teaching Assistant, assisting in courses such as Computational Intelligence and Natural Language Processing. 
-
-🚀 **Research Interests:**
-- 🤖 Artificial Intelligence for Science
-- 📈 Cybersecurity
-- 🔧 Optimization
-- 📊 Machine Learning
-
-
-🔧 **Skills:**
-- Programming: Python, 
-- Libraries: scikit-learn, Auto-sklearn, TensorFlow, OpenCV, Matplotlib, NumPy, Pandas
-- Skills: Machine Learning, Data Analysis, Research Prowess, Optimization, Auto-Ml, Fuzzy Logic
-
 # My Publication Journey
 
 My research output has shown consistent improvement over time, as evidenced by the increasing quality of the venues where my work is published. The timeline below visually represents this progress, with each point representing a publication and its corresponding journal or conference quality (Q1 being the highest).
@@ -58,5 +42,20 @@ Castration Resistance Events in Prostate Cancer: A Comprehensive Machine Learnin
 Learning and Machine Learning'
 * **I:** "Meta-Learning and Formula Optimization for All-Optical XOR, OR,
 and NOT Logic Gates: The ML-FOLD Method"
+
+💡 **Teaching Experience:**  
+In addition to my research, I have also served as a Teaching Assistant, assisting in courses such as Computational Intelligence and Natural Language Processing. 
+
+🚀 **Research Interests:**
+- 🤖 Artificial Intelligence for Science
+- 📈 Cybersecurity
+- 🔧 Optimization
+- 📊 Machine Learning
+
+
+🔧 **Skills:**
+- Programming: Python, 
+- Libraries: scikit-learn, Auto-sklearn, TensorFlow, OpenCV, Matplotlib, NumPy, Pandas
+- Skills: Machine Learning, Data Analysis, Research Prowess, Optimization, Auto-Ml, Fuzzy Logic
 
 
