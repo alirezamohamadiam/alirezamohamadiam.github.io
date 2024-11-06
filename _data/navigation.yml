@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /files/Alireza Mohamadi - Nov.pdf
     
-  - title: "My Research Timeline"
-    url: /teaching/ 
+ # - title: "My Research Timeline"
+  #  url: /teaching/ 
     
 #  - title: "Talks"
 #    url: /talks/    
