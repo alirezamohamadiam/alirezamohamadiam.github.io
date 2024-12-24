@@ -68,7 +68,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/77.jpg" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p><strong>A Mohamadi</strong>, F Parandin, P Karami. <br><strong>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</strong> <br><i>(Under review in Scientific Reports)</i><strong> (<em><u>Q1, IF: 3.8</u></em>)</strong>
+    <p><strong>A Mohamadi</strong>, F Parandin, P Karami. <br><strong>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</strong> <br><i>(Under review in Scientific Reports)</i><strong> (<em><u>Q1, IF: 3.8</u></em>)</strong></p></p>
   </td>
 </tr>
 </tbody>
