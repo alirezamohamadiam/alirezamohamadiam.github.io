@@ -15,7 +15,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/1.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p>F Parandin, P Karami, <strong>A Mohamadi</strong>. <br><strong>Machine Learning-Driven Optimization of Photonic Crystal Structures for Superior Optical NOR Gate Performance</strong> <br><i>Applied Optics, 63(25), 6666-6673, 2024</i>. <a href="https://doi.org/10.1364/AO.529142">[Link]</a> <a href="https://www.researchgate.net/publication/382986319_Machine_learning-driven_optimization_of_photonic_crystal_structures_for_superior_optical_NOR_gate_performance">[PDF]</a> <strong>(<em><u>Q2, IF: 1.9</u></em>)</strong></p>
+    <p>F Parandin, P Karami, <strong>A Mohamadi</strong>. <br><strong>Machine Learning-Driven Optimization of Photonic Crystal Structures for Superior Optical NOR Gate Performance</strong> <br><i>Applied Optics, 63(25), 6666-6673, 2024</i>. <a href="https://doi.org/10.1364/AO.529142">[Link]</a> <a href="https://www.researchgate.net/publication/382986319_Machine_learning-driven_optimization_of_photonic_crystal_structures_for_superior_optical_NOR_gate_performance">[PDF]</a> <strong>(<em><u>Q2, IF: 1.7</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
@@ -54,7 +54,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/4.png" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p>F Parandin, <strong>A Mohamadi</strong>, P Karami. <br><strong>Innovative Approach to Optical Logic Gates Optimization Using Deep Learning and Machine Learning</strong> <br><i>(Under review in Optical and Quantum Electronics, 2024)</i> <strong>(<em><u>Q2, IF: 3.3</u></em>)</strong></p>
+    <p>F Parandin, <strong>A Mohamadi</strong>, P Karami. <br><strong>Enhancing integrated optical circuits: optimizing all-optical NAND and NOR gates through deep learning and machine learning
+</strong> <br><i>Optical and Quantum Electronics 2024 Vol. 57 Issue 1 Pages 73</i><a href="https://doi.org/10.1007/s11082-024-07989-x">[Link]</a> <a href="https://alirezamohamadiam.github.io/files/Optical%20and%20Quantum%20Electronics.pdf">[PDF]</a> <strong>(<em><u>Q2, IF: 3.3</u></em>)</strong></p>
   </td>
 </tr>
 </tbody>
@@ -67,7 +68,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img style="float: left; margin-right: 10px" src="https://alirezamohamadiam.github.io/images/77.jpg" width="120px" height="120px" border="2px solid #bbb">
   </td>
   <td style="height:120px; vertical-align: top;">
-    <p><strong>A Mohamadi</strong>, F Parandin, P Karami. <br><strong>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</strong> <br><i>(Submitted, 2024)</i></p>
+    <p><strong>A Mohamadi</strong>, F Parandin, P Karami. <br><strong>Meta-Learning and Formula Optimization for All-Optical XOR, OR, and NOT Logic Gates: The ML-FOLD Method</strong> <br><i>(Under review in Scientific Reports)</i><strong> (<em><u>Q1, IF: 3.8</u></em>)</strong></p></p>
   </td>
 </tr>
 </tbody>
