@@ -25,7 +25,7 @@ author:
   name             : "Alireza Mohamadi"
   pronouns         : "he/him"  
   bio              : "ML Researcher & Research Assistant in IAU"
-  location         : "IRAN"
+  location         : #"IRAN"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "malireza718@gmail.com
