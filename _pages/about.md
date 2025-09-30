@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Alireza Mohammadi"
-excerpt: "AI Safety Researcher"
+title: "Welcome to my website"
+excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
