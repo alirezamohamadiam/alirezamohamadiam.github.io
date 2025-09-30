@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Alireza Mohammadi, an independent researcher who recently completed my B.Sc. in CE. Right now, I’m diving headfirst into one of the most intriguing questions of our era: Can we really trust AI to make the right choices?
+I'm Alireza Mohamadi, an independent researcher who recently completed my B.Sc. in CE. Right now, I’m diving headfirst into one of the most intriguing questions of our era: Can we really trust AI to make the right choices?
 
 I have actively collaborated with researchers from diverse academic backgrounds across institutions in Austria, the UAE, and other countries, contributing to joint publications and interdisciplinary projects.
 
