@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# Hey there! 👋
-
 I'm Alireza Mohammadi, an independent AI safety researcher with a fresh BS in Computer Engineering.Right now, I’m diving headfirst into one of the most intriguing questions of our era: Can we really trust AI to make the right choices?
 
 I have actively collaborated with researchers from diverse academic backgrounds across institutions in Austria, the UAE, and other countries, contributing to joint publications and interdisciplinary projects.
