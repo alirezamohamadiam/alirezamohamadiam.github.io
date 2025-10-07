@@ -7,13 +7,11 @@ author_profile: true
 
 <style>
 .news-section {
-  font-family: 'Georgia', 'Times New Roman', serif;
   line-height: 1.8;
   color: #333;
 }
 
 .news-section h2 {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-weight: 600;
   color: #2c3e50;
   border-bottom: 2px solid #3498db;
@@ -26,7 +24,6 @@ author_profile: true
 }
 
 .news-date {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-weight: 600;
   font-size: 1.1em;
   color: #2c3e50;
