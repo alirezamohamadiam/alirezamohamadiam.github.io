@@ -57,7 +57,6 @@ author_profile: true
 }
 
 .news-footer {
-  font-style: italic;
   color: #7f8c8d;
   text-align: center;
   margin-top: 3em;
