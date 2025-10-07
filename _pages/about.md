@@ -53,9 +53,7 @@ It keeps me sharp under pressure and constantly pushes me to think tactically, a
 **October 2025** - Two new papers archived on arXiv:
 - "Frequency-Aware Model Parameter Explorer: A new attribution method for improving explainability" [Read it here](https://arxiv.org/abs/2510.03245v1)
 - "Survival at Any Cost? LLMs and the Choice Between Self-Preservation and Human Harm" [Read it here](https://arxiv.org/abs/2509.12190)
-
-**January 2025** - Started as Research Intern at ZEISS Lab × Medical University of Vienna, working on frequency-based explainability methods
-
+  
 [See all news →](/news/)
 
 ---
