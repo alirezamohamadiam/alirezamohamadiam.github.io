@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /files/CV (45).pdf
     
- # - title: "My Research Timeline"
-  #  url: /teaching/ 
+  - title: "News"
+    url: /news/ 
     
 #  - title: "Talks"
 #    url: /talks/    
