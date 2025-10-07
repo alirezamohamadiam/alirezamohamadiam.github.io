@@ -48,6 +48,16 @@ I've published 12 papers (43 citations, h-index: 4) on topics ranging from AI sa
 In my free time, I enjoy playing [Warzone](https://www.callofduty.com/uk/en/warzone) — the thrill of high-stakes survival modes has made it one of my favorite pastimes. 
 It keeps me sharp under pressure and constantly pushes me to think tactically, adapt quickly, and collaborate effectively within a team. Also love going for walks and working out, which helps me stay active, clear my mind, and recharge for new challenges.
 
+## Recent News 📰
+
+**October 2025** - Two new papers archived on arXiv:
+- "Frequency-Aware Model Parameter Explorer: A new attribution method for improving explainability" [Read it here](https://arxiv.org/abs/2510.03245v1)
+- "Survival at Any Cost? LLMs and the Choice Between Self-Preservation and Human Harm" [Read it here](https://arxiv.org/abs/2509.12190)
+
+**January 2025** - Started as Research Intern at ZEISS Lab × Medical University of Vienna, working on frequency-based explainability methods
+
+[See all news →](/news/)
+
 ---
 
 *"The question isn't whether AI will be powerful—it's whether it will be aligned with human values when that power matters most."*
