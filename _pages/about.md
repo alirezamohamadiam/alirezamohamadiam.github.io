@@ -13,8 +13,6 @@ I'm Alireza Mohamadi, an independent researcher who recently completed my B.Sc. 
 
 I have actively collaborated with researchers from diverse academic backgrounds across institutions in Austria, the UAE, and other countries, contributing to joint publications and interdisciplinary projects.
 
-## What Gets Me Out of Bed 🌅
-
 I'm currently obsessed with **AI safety and AI alignment**. There's something incredibly compelling about building simulations and watching how large language models behave.
 
 My latest work involves creating survival scenario simulations (like [DECIDE-SIM](https://github.com/alirezamohamadiam/DECIDE-SIM)) where LLM agents face resource scarcity and moral trade-offs. It's like a psychology lab, but for AI. Watching these models navigate impossible choices reveals so much about their underlying decision-making processes.
@@ -39,11 +37,7 @@ The best part of my research? Creating simulations and watching AI agents intera
 
 ## Published Work 📚
 
-I've published 12 papers (43 citations, h-index: 4) on topics ranging from AI safety to photonic computing optimization. You can find them all on my [Google Scholar](https://scholar.google.com).
-
-## Hobbies
-In my free time, I enjoy playing [Warzone](https://www.callofduty.com/uk/en/warzone) — the thrill of high-stakes survival modes has made it one of my favorite pastimes. 
-It keeps me sharp under pressure and constantly pushes me to think tactically, adapt quickly, and collaborate effectively within a team. Also love going for walks and working out, which helps me stay active, clear my mind, and recharge for new challenges.
+I've published 12 papers on topics ranging from AI safety to AI for science. You can find them all on my [Google Scholar](https://scholar.google.com).
 
 ## Recent News 📰
 
@@ -52,6 +46,10 @@ It keeps me sharp under pressure and constantly pushes me to think tactically, a
 - "Survival at Any Cost? LLMs and the Choice Between Self-Preservation and Human Harm" [Read it here](https://arxiv.org/abs/2509.12190)
   
 [See all news →](/news/)
+
+## Hobbies
+In my free time, I enjoy playing [Warzone](https://www.callofduty.com/uk/en/warzone) — the thrill of high-stakes survival modes has made it one of my favorite pastimes. 
+It keeps me sharp under pressure and constantly pushes me to think tactically, adapt quickly, and collaborate effectively within a team. Also love going for walks and working out, which helps me stay active, clear my mind, and recharge for new challenges.
 
 ---
 
