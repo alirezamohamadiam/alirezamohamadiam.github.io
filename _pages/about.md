@@ -37,7 +37,7 @@ The best part of my research? Creating simulations and watching AI agents intera
 
 ## Published Work 📚
 
-I've published 12 papers on topics ranging from AI safety to AI for science. You can find them all on my [Google Scholar](https://scholar.google.com).
+I've published 12 papers on topics ranging from AI safety to AI for science. You can find them all on my [Google Scholar](https://scholar.google.com/citations?user=qetrYAwAAAAJ&hl=en).
 
 ## Recent News 📰
 
