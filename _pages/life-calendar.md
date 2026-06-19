@@ -14,7 +14,7 @@ author_profile: true
   align-items: center;
   padding: 30px 15px;
   border-radius: 8px;
-  max-width: 550px;
+  max-width: 750px;
   margin: 0 auto;
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   border: 1px solid #e1e0dc;
