@@ -87,18 +87,18 @@ author_profile: true
 
 .weeks-grid {
   display: grid;
-  grid-template-columns: 36px repeat(52, 1fr);
-  gap: 3px;
-  min-width: 800px;
+  grid-template-columns: 26px repeat(52, 1fr);
+  gap: 2px;
+  min-width: 0;
 }
 
 .year-label {
-  font-size: 0.7rem;
+  font-size: 0.55rem;
   color: #888;
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  padding-right: 6px;
+  padding-right: 4px;
   font-weight: 500;
 }
 
@@ -109,6 +109,8 @@ author_profile: true
   background: #fff;
   transition: transform 0.15s ease;
   cursor: default;
+  position: relative;
+  min-width: 8px;
 }
 
 .week-cell.filled {
@@ -163,13 +165,20 @@ author_profile: true
 
 @media (max-width: 768px) {
   .weeks-grid {
-    gap: 2px;
+    gap: 1px;
   }
   .stat-number {
     font-size: 1.4rem;
   }
   .life-stats {
     gap: 0.8rem;
+  }
+  .week-cell {
+    min-width: 5px;
+  }
+  .tooltip {
+    font-size: 0.6rem;
+    padding: 2px 6px;
   }
 }
 </style>
