@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Life Calendar"
 permalink: /life-calendar/
 author_profile: true
 ---
