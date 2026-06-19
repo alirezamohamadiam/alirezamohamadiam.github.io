@@ -9,6 +9,9 @@ main:
   - title: "News"
     url: /news/ 
     
+  - title: "Life Calendar"
+    url: /life-calendar/
+    
 #  - title: "Talks"
 #    url: /talks/    
 
