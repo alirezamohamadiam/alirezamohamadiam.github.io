@@ -243,7 +243,6 @@ author_profile: true
 
   const grid = document.getElementById('weeks-grid');
 
-  // Top header row with week numbers (every 4 weeks)
   const emptyCorner = document.createElement('div');
   emptyCorner.className = 'year-label';
   grid.appendChild(emptyCorner);
