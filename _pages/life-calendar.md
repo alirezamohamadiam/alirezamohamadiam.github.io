@@ -97,7 +97,7 @@ author_profile: true
 
 <div class="existential-container">
   <h2 class="existential-title">MY LIFE IN WEEKS</h2>
-  <div class="existential-subtitle">Based on a 75-Year Lifespan &middot; Born: December 4, 2000</div>
+  <div class="existential-subtitle">Based on a 75-Year Lifespan </div>
 
   <div class="existential-rows" id="lifeRows"></div>
 
