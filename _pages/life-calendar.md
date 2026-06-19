@@ -34,11 +34,30 @@ author_profile: true
   margin-bottom: 25px;
   text-align: center;
 }
-.existential-grid {
+.existential-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  width: 100%;
+}
+.existential-year-row {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.existential-year-label {
+  font-size: 0.6rem;
+  color: #888;
+  width: 22px;
+  text-align: right;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.existential-year-grid {
   display: grid;
   grid-template-columns: repeat(52, 1fr);
   gap: 2px;
-  width: 100%;
+  flex: 1;
 }
 .existential-cell {
   aspect-ratio: 1;
@@ -81,12 +100,13 @@ author_profile: true
   <h2 class="existential-title">YOUR LIFE IN WEEKS</h2>
   <div class="existential-subtitle">Based on a 75-Year Lifespan &middot; Born: December 4, 2000</div>
 
-  <div class="existential-grid" id="lifeGrid"></div>
+  <div class="existential-rows" id="lifeRows"></div>
 
   <div class="existential-footer">
     <p id="spentText">Spent: -- weeks (--%)</p>
     <p id="remainingText">Remaining: -- weeks</p>
     <p class="memento-mori">Memento Mori — Make every week count.</p>
+    <p style="font-size:0.75rem;color:#999;margin-top:8px;font-style:italic;">JUST a simple reminder to myself: I have limited time to do things</p>
   </div>
 </div>
 
@@ -106,19 +126,36 @@ author_profile: true
   const msInWeek = 1000 * 60 * 60 * 24 * 7;
   const weeksInCurrentYear = Math.floor((today - thisYearBirth) / msInWeek);
   const currentWeekIndex = (ageYears * totalCols) + weeksInCurrentYear;
-  const grid = document.getElementById('lifeGrid');
-  if (grid) {
-    for (let i = 0; i < totalWeeks; i++) {
-      const cell = document.createElement('div');
-      cell.classList.add('existential-cell');
-      if (i < currentWeekIndex) {
-        cell.classList.add('past');
-      } else if (i === currentWeekIndex) {
-        cell.classList.add('current');
-      } else {
-        cell.classList.add('future');
+  const rowsContainer = document.getElementById('lifeRows');
+  if (rowsContainer) {
+    for (let year = 0; year < totalRows; year++) {
+      const yearRow = document.createElement('div');
+      yearRow.className = 'existential-year-row';
+
+      const yearLabel = document.createElement('div');
+      yearLabel.className = 'existential-year-label';
+      yearLabel.textContent = 'Y' + (year + 1);
+      yearRow.appendChild(yearLabel);
+
+      const yearGrid = document.createElement('div');
+      yearGrid.className = 'existential-year-grid';
+
+      for (let week = 0; week < totalCols; week++) {
+        const i = year * totalCols + week;
+        const cell = document.createElement('div');
+        cell.classList.add('existential-cell');
+        if (i < currentWeekIndex) {
+          cell.classList.add('past');
+        } else if (i === currentWeekIndex) {
+          cell.classList.add('current');
+        } else {
+          cell.classList.add('future');
+        }
+        yearGrid.appendChild(cell);
       }
-      grid.appendChild(cell);
+
+      yearRow.appendChild(yearGrid);
+      rowsContainer.appendChild(yearRow);
     }
     const percentSpent = ((currentWeekIndex / totalWeeks) * 100).toFixed(1);
     const remainingWeeks = totalWeeks - currentWeekIndex;
